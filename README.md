@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hanasrullah bin Halim</h1>
 <h3 align="center">A passionate Mobile developer from Malaysia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasrul03" alt="anasrul03" /></a> </p>
-
 - 🔭 I’m currently working on **Futsal Booking App**
 
 - 🌱 I’m currently learning **Flutter, Firebase and Notion API**
 
 - 📫 How to reach me **hanasrullahhalim@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasrul03" alt="anasrul03" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
