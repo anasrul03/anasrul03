@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanasrullah bin Halim</h1>
-<h3 align="center">A passionate Mobile developer from Malaysia</h3>
+<h3 align="center">A passionate Flutter developer from Malaysia</h3>
 
 - 🔭 I’m currently working on **Futsal Booking App**
 
