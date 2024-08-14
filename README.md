@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Futsal Booking App**
 
-- 🌱 I’m currently learning **Flutter, Firebase and Notion API**
+- 🌱 I’m currently learning **SwiftUI** and focusing on iOS Development
 
 - 📫 How to reach me **hanasrullahhalim@gmail.com**
 
